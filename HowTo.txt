@@ -1,0 +1,12 @@
+To use the message counter:
+
+  1. Open Messenger (www.messenger.com)
+  2. Log in
+  3. Open Developer Tools on your browser
+  4. Paste the code from the javascript file in the console
+  5. Press enter and check out how much of Facebook's bandwidth you've used up
+  
+  
+-----------------------------------------------------------------------------------------
+
+Currently tested on Chrome, Mozilla Firefox and Microsoft Edge.
